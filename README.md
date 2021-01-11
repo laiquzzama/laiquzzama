@@ -1,5 +1,8 @@
 ### Hi there 👋
+# my name is laiquzzama quadri
+# [my blog](https://laiquzzama.github.io/myBlog/)
 ## [My_Portfolio](https://laiquzzama.github.io/myportfolio.html/)
+
 <!--
 **laiquzzama/laiquzzama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
