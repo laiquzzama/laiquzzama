@@ -11,7 +11,7 @@
 <!--# :point_right: [![Portfolio]( https://img.shields.io/badge/New-Web%20Developer-green)](https://github.com/laiquzzama/)-->
 
 # [my blog](https://laiquzzama.github.io/myBlog/)
-## [My_Portfolio](https://laiquzzama.github.io/myportfolio/)
+## [My_Portfolio](https://laiquzzama.github.io/myportfolio/) :point_left:
 ### [Youtube Channel](https://m.youtube.com/channel/UC7rUIGf7UP_QSa29NXEXU5A) :point_left:
 ![Subscribe](https://img.shields.io/badge/YouTube%20-Subscribe-Red?style=social&logo=youtube)
 <!--
