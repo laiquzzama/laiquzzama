@@ -8,16 +8,16 @@
 [![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google&logoColor=white&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzzama.github.io/myportfolio.html/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=blur&link=https://twitter.com/sundowndev/)](https://twitter.com/laiquzzama1)
 - **Click this to see my Portfolio**
-# :point_right: [![Portfolio]( https://img.shields.io/badge/New-Web%20Developer-green)](https://github.com/laiquzzama/)
+<!--# :point_right: [![Portfolio]( https://img.shields.io/badge/New-Web%20Developer-green)](https://github.com/laiquzzama/)-->
 
 # [my blog](https://laiquzzama.github.io/myBlog/)
-## [My_Portfolio](https://laiquzzama.github.io/myportfolio.html/)
+## [My_Portfolio](https://laiquzzama.github.io/myportfolio/)
 ### [Youtube Channel](https://m.youtube.com/channel/UC7rUIGf7UP_QSa29NXEXU5A) :point_left:
 ![Subscribe](https://img.shields.io/badge/YouTube%20-Subscribe-Red?style=social&logo=youtube)
 <!--
 **laiquzzama/laiquzzama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ... Python
 - 🌱 I’m currently learning ... Python or html 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... No need to get a chance to meet up with me 😂😂😉
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm a cool programmer
--->
+
 
 <!-- :book: I am learning __Youtube__ -->
 - 🌱 I’m currently learning _JavaScript_ and _Python_ from Youtube.
