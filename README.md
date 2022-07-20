@@ -26,17 +26,20 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ... Python
+- 🔭 I’m currently working on ... Python, React, Node, Angular, MongoDB, MySQL, Docker, Kubernetes, AWS, Google Cloud, and more.
+- :point_right: I’m a full-stack developer with a passion for building beautiful, responsive, and fast websites.
+- :point_right: I’m a self-taught developer with a passion for learning new things.
 - 🌱 I’m currently learning ... Python or html
 - 👯 I’m looking to collaborate on ...web development
 - 🤔 I’m looking for help with ... Knowledge
 - 💬 Ask me about ... On Instagram Facebook Twitter
 - 📫 How to reach me: ... No need to get a chance to meet up with me 😂😂😉
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I'm a cool programmer
+- ⚡ Fun fact: ... I'm a Professional Programmer having  4+ years of experience in Python and Web Development.
 
-<!-- :book: I am learning __Youtube__ -->
-- 🌱 I’m currently learning _JavaScript_ and _Python_ from Youtube.
+:book: I am learning __Dummies for Python__,a book for Python Beginners.
+:book: I am also learning __Dummies for HTML__,a book for HTML Beginners.
+- 🌱 I’m currently learning _JavaScript_ and _Python_ from __Youtube__,__Interner__,:hard work: and Don't forget about the :book:
 <!-- 💬 [Ask me about anything](https://github.com/sundowndev/ama), I am happy to help
 Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logoColor=white&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzz
 - **Tech**: gRPC, KV stores (*Redis*, *etcd*), DBMS (*MySQL, PostgreSQL, Mongodb*), API (*REST, OpenAPI, Swagger*), Reverse Engineering (*Scraping, Android static & dynamic analysis*), Docker (*Kubernetes, Helm, Traefik*), Infrastructure (*DigitalOcean, Pulumi, Terraform*)-->
