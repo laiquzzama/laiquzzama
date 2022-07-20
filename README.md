@@ -1,4 +1,4 @@
-# Laiquzzama Quadri
+# <center>Laiquzzama Quadri</center>
 
 ![commits](https://img.shields.io/github/commit-activity/y/laiquzzama/laiquzzama?color=0ff00f&label=Last%20commit&logo=github&style=plastic)
 
@@ -31,12 +31,12 @@
 
 > social
 [![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)](https://github.com/laiquzzama)
-[![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google&logoColor=white&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzzama.github.io/myportfolio.html/)
+[![Website](https://img.shields.io/badge/&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzzama.github.io/myportfolio/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=blur&link=https://twitter.com/sundowndev/)](https://twitter.com/laiquzzama1)- **Click this to see my Portfolio**
 
-## :point_right: [![Portfolio]( https://img.shields.io/badge/New-Web%20Developer-green)](https://github.com/laiquzzama/) to watch my Profile on [Github][github]
+## :point_right: [![Portfolio]( https://img.shields.io/badge/New-Web%20Developer-red)](https://github.com/laiquzzama/) to watch my Profile on [Github][github]
 
-## [Click Here](https://laiquzzama.github.io/myBlog/)
+## [Click Here](https://laiquzzama.github.io/myBlog/) to see my Blog
 
 ## [_**Click here!**_](https://laiquzzama.github.io/myportfolio/) :point_left: to see my portfolio
 
@@ -63,18 +63,14 @@ Here are some ideas to get you started: -->
 
 :book: I am also learning _**Dummies for HTML**_, A book for HTML Beginners.
 
-- 🌱 I’m currently learning _JavaScript_ and _Python_ from _**Youtube**_,**_Interner_**,:hard work: and Don't forget about the :green_book: _Dummies for Python_ and _Dummies for HTML_
-💬 [Ask me about anything](https://github.com/sundowndev/ama), I am happy to help
+- 🌱 I’m currently learning _JavaScript_ and _Python_ from _**Youtube**_,**_Internet_**, and _**Coursera**_, and I'm also learning **_React_** and _**Angular**_ _**Node**_ and _**Express**_ from _**Udemy**_, _**Pluralsight**_, and _**CodeCademy**_,[![google](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google&logoColor=white)]('https://www.google.com')
+ and Don't forget about the :green_book: _**Dummies for Python**_ and _**Dummies for HTML**_
 
-[Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logoColor=white&link=https://laiquzzama.github.io/myportfolio.html)
+- 💬 _**[Ask me about anything](https://github.com/laiquzzama)**_, I am happy to help
 
-## [portfolio](https://laiquzzama.github.io/myportfolio/)
+## [![Website](https://img.shields.io/badge/-Website-lime?style=flat&logo=Google&logoColor=red&link=https://laiquzzama.github.io/myportfolio.html)]('https://laiquzzama.github.io/myportfolio') [![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)][ref] [![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzzama.github.io/myportfolio.html/)
 
-[![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)][ref]
-
-[ref]: (https://laiquzzama.github.io/myportfolio.html/#)
-
-[![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzzama.github.io/myportfolio.html/)
+[ref]: (https://laiquzzama.github.io/myportfolio/)
 
 - **Tech**: Python, React, Node, Angular, MongoDB, MySQL, Docker, Kubernetes, AWS, Google Cloud, and more.
 - **Languages**: Python, HTML, CSS, JavaScript, and more.
