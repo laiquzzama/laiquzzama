@@ -72,7 +72,7 @@ Here are some ideas to get you started: -->
 
 [![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)][ref]
 
-[ref]: (https://laiquzzama.github.io/myportfolio.html/)
+[ref]: (https://laiquzzama.github.io/myportfolio.html/#)
 
 [![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzzama.github.io/myportfolio.html/)
 
