@@ -1,4 +1,5 @@
-# <center>Laiquzzama Quadri</center>
+# <center>Laiquzzama Quadri
+</center>
 
 ![commits](https://img.shields.io/github/commit-activity/y/laiquzzama/laiquzzama?color=0ff00f&label=Last%20commit&logo=github&style=plastic)
 
@@ -31,7 +32,7 @@
 
 > social
 [![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)](https://github.com/laiquzzama)
-[![Website](https://img.shields.io/badge/&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzzama.github.io/myportfolio/)
+[![Website](https://img.shields.io/badge/-Website-999999?style=plastic&logo=Google&logoColor=red&link=https://laiquzzama.github.io/myportfolio)](https://laiquzzama.github.io/myportfolio/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=blur&link=https://twitter.com/sundowndev/)](https://twitter.com/laiquzzama1)- **Click this to see my Portfolio**
 
 ## :point_right: [![Portfolio]( https://img.shields.io/badge/New-Web%20Developer-red)](https://github.com/laiquzzama/) to watch my Profile on [Github][github]
