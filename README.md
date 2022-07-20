@@ -1,4 +1,5 @@
-![GitHub followers](https://img.shields.io/github/followers/laiquzzama?label=follow%20me&style=social)
+# Laiquzzama - Laiquizzamos
+![GitHub Followers](https://img.shields.io/github/followers/laiquzzama?label=follow%20me&style=social)
 
 #### Hi there 👋  
 ### I'm Laiquzzama Quadri, a Developer & Youtuber from Delhi, India :india:. 
