@@ -98,90 +98,54 @@ header #toggle:after {
     display: flex;
     flex-direction: column;
 }
-#navigation ul li {
+#navigation ul li,.sec li {
     list-style: none;
 }
-
 #navigation ul li a{
-
     color: #fff;
-
     text-decoration: none;
-
     display: inline-block;
-
     font-size: 2em;
-
     font-weight: 600;
-
     text-transform: uppercase;
-
 }
-
 .content{
     max-width: 600px;
 }
-
 .content h2 {
     color: #fff;
     font-size: 2.5em;
 }
-
 .content h2 span {
     font-size: 1.2em;
     color: #2d3e4a;
-    background: red;
+    background: whitesmoke;
     padding: .2rem;
-
     border-radius: 8px;
 }
-
 .content p {
-
     font-size: 1.2em;
-
     color: #fff;
-
     font-weight: 300;
-
 }
-
 .content a {
-
     position: relative;
-
     display: inline-block;
-
     margin-top: 20px;
-
     background: #fff;
-
     color: #000;
-
     padding: 10px 30px;
-
     text-decoration: none;
-
     font-size: 1.2em;
-
     font-weight: 500;
-
 }
-
 .sci {
-
     position: absolute;
-
     display: flex;
-
     flex-direction: column;
-
     right: 100px;
-
 }
-
-.sec ul li {list-style: none;}
-.sec li a{
+.sci li a{
     position: relative;
     display: flex;
     align-items: center;
