@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    
+<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+
+    <title>responsive</title>
+
+</head>
+
+<body>
+
+    <section class="banner" id="sec" >
+
+        <header>
+
+            <a href="#" class="logo">LoGo</a>
+
+            <div id="toggle" onclick="toggle()"></div>
+
+        </header>
+
+        <div class="content">
+
+            <h2>Hello World, <br />I'm,<span>Laiquzzama Quadri</span></h2>
+
+            <p>Developer and Designer</p>
+
+            <a href="#">Say Hi</a>
+
+        </div>
+
+        <ul class="sci">
+
+            <li><a href="#"><img src="./MaterialIcon/svg/github.svg" alt="" /></a></li>
+
+            <li><a href="#"><img src="./MaterialIcon/svg/blogger.svg" alt=""></a></li>
+
+            <li><a href="#"><img src="./MaterialIcon/svg/codepen.svg" alt=""></a></li>
+
+            <li><a href="#"><img src="./MaterialIcon/svg/YouTube.svg" alt=""></a></li>
+	</ul>
+
+    </section>
+
+    <div id="navigation">
+
+        <ul>
+
+            <li><a href="#">Home</a></li>
+
+            <li><a href="#">About</a></li>
+
+            <li><a href="#">Services</a></li>
+
+            <li><a href="#">Portfolio</a></li>
+
+            <li><a href="#">Team</a></li>
+
+            <li><a href="mailto:laiquzzamaquadri@gmail.com">email me</a></li>
+
+	</ul>
+
+    </div>
+
+	<script>
+
+        	function toggle(){
+
+	            let sec = document.getElementById('sec'),
+
+            		nav = document.getElementById('navigation')
+
+            		sec.classList.toggle('active')
+
+            		nav.classList.toggle('active')
+
+        		}
+
+        
+</script>
+
+</body>
+
+</html>
