@@ -1,4 +1,4 @@
-*{
+    *{
 
     margin: 0;
 
@@ -111,7 +111,7 @@ header #toggle:after {
 
     padding: 100px;
 
-    background: url(teddy-bear.png);
+    background: url(./MaterialIcon/teddy-bear.png);
 
     background-size: cover;
 
