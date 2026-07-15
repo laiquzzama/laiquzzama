@@ -2,7 +2,7 @@
 
 ![commits](https://img.shields.io/github/commit-activity/y/laiquzzama/laiquzzama?color=0ff00f&label=Last%20commit&logo=github&style=plastic)
 
-    BEING A LAIQUZZAMA QUADRI IS A MISSION TO MAKE A IMPACT ON THE WORLD.
+    BEING A DEVELOPER IS A MISSION TO MAKE A IMPACT ON THE WORLD.
     
     WE ARE A GROUP OF STUDENTS WHO WOULD LIKE TO MAKE A DIFFERENCE IN THE WORLD.
 
