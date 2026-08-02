@@ -31,7 +31,7 @@
 
 > social
 [![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)](https://github.com/laiquzzama)
-[![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google&logoColor=white&link=https://laiquzzama.github.io/myportfolio.html/)](https://laiquzzama.github.io/myportfolio.html/)
+[![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google&logoColor=white&link=https://laiquzzama.github.io/myportfolio)](https://laiquzzama.github.io/myportfolio)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=blur&link=https://twitter.com/sundowndev/)](https://twitter.com/laiquzzama1)- **Click this to see my Portfolio**
 
 ## :point_right: [![Portfolio]( https://img.shields.io/badge/New-Web%20Developer-green)](https://github.com/laiquzzama/) to watch my Profile on [Github][github]
